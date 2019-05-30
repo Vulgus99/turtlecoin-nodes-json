@@ -349,6 +349,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Ontario Turtle",
+      "url": "tonyturtle.mooo.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
